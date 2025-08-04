@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name "Synth_Shield-altium-import")(type "KiCad")(uri "${KIPRJMOD}/Synth_Shield-altium-import.kicad_sym")(options "")(descr ""))
+)
